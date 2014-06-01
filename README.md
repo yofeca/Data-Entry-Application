@@ -1,6 +1,9 @@
 Data-Entry-Application
 ======================
 
-A data etry application that view scanned Birth Certificates and encode necessary details...
+A data etry application used by data encoders to view scanned Birth Certificates and encode necessary details...
 
-f
+Language: C#
+Database: Text file (json encoded)
+
+
